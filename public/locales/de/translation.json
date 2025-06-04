@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "title": "",
+    "description": ""
+  },
+  "menu": {
+    "news": "Aktuelles",
+    "team": "Team",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "legal_notice": "Impressum",
+    "privacy_policy": "Datenschutz"
+  },
+  "welcome_key": "Welcome DE"
+}

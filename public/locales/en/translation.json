@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "title": "",
+    "description": ""
+  },
+  "menu": {
+    "news": "News",
+    "team": "Team",
+    "services": "Services",
+    "contact": "Contact",
+    "legal_notice": "Legal Notice",
+    "privacy_policy": "Privacy Policy"
+  },
+  "welcome_key": "Welcome EN"
+}
