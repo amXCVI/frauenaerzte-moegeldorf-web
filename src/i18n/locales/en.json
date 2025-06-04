@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Video Surveillance Systems Installation in Taganrog | SafeGuard Security",
+    "description": "Professional installation of video surveillance systems in Taganrog, Rostov, Donetsk, Luhansk, and Zaporizhzhia regions. Free on-site assessment. Quality guarantee."
+  },
+  "header": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "callBack": "Request Call"
+  },
+  "hero": {
+    "title": "Professional Video Surveillance Systems Installation",
+    "subtitle": "Protect your home or business with modern security systems",
+    "coverage": "Operating in Taganrog, Rostov, Donetsk, Luhansk, and Zaporizhzhia regions",
+    "cta": "Get Free Consultation",
+    "consultation": "Free on-site assessment"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "experience": {
+      "title": "Over 10 Years of Experience",
+      "description": "Installed more than 1000 video surveillance systems of varying complexity"
+    },
+    "quality": {
+      "title": "Quality Guarantee",
+      "description": "We use only professional equipment from trusted manufacturers"
+    },
+    "support": {
+      "title": "Technical Support",
+      "description": "24/7 support and maintenance of installed systems"
+    },
+    "price": {
+      "title": "Fair Pricing",
+      "description": "Transparent pricing without hidden fees"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "consultation": {
+      "title": "Free Consultation",
+      "description": "Specialist visit to the site, assessment and project planning",
+      "price": "Free"
+    },
+    "basic": {
+      "title": "Basic Package",
+      "description": "Installation of 4 IP cameras with DVR",
+      "includes": [
+        "4 IP cameras 2MP",
+        "DVR",
+        "1TB Hard Drive",
+        "Installation and Setup"
+      ],
+      "price": "from $350"
+    },
+    "advanced": {
+      "title": "Advanced Package",
+      "description": "Installation of 8 IP cameras with extended functionality",
+      "includes": [
+        "8 IP cameras 4MP",
+        "DVR",
+        "2TB Hard Drive",
+        "Installation and Setup",
+        "Remote Access"
+      ],
+      "price": "from $750"
+    },
+    "custom": {
+      "title": "Custom Solution",
+      "description": "Development and installation of a system according to your requirements",
+      "includes": [
+        "Custom Project",
+        "Equipment Selection",
+        "Installation and Setup",
+        "Staff Training"
+      ],
+      "price": "On request"
+    }
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "description": "Examples of installed video surveillance systems"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Leave a request and we will call you back within 15 minutes",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Submit Request",
+      "policy": "By clicking the button, you agree to the privacy policy"
+    }
+  },
+  "footer": {
+    "company": "© 2024 SafeGuard Security. All rights reserved.",
+    "address": "15 Petrovskaya St., Taganrog",
+    "phone": "+7 (999) 999-99-99",
+    "email": "info@safeguard-security.ru"
+  }
+}
